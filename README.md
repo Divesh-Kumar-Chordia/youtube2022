@@ -1,2 +1,4 @@
-# youtube2022
-Season 2 on Lama Dev
+Youtube Clone 2022 
+> MERN project
+
+
